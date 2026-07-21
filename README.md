@@ -77,11 +77,12 @@ O aplicativo será aberto automaticamente no navegador.
 
 ---
 
-## ## Aplicação
+## Aplicação
 
 Acesse o aplicativo publicado no Render:
 
 [Vehicles Data Explorer](https://vehicles-data-explorer.onrender.com)
+
 ---
 
 ## Repositório
